@@ -1,0 +1,229 @@
+/*strat change six image */
+
+/*.creativemints
+{
+	margin-left: 10px;
+    width: 300px;
+    float: left;
+    padding: 0px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    overflow: hidden;
+}*/
+
+/*.creativemints .creativemints_content
+{
+    width: 100%;
+    max-width: 100%;
+    height: 230px;
+    float: left;
+    margin-bottom: -5px;
+}*/
+
+/*.creativemints .creativemints_content img
+{
+    width: 100%;
+    max-width: 100%;
+    height: 230px;
+    float: left;
+    margin-bottom: -5px;
+}*/
+
+/*.creativemints_detail
+{
+	
+    position: relative;
+    height: 230px;
+    width: 300px;
+}*/
+
+/*.creativemints_detail .single_image
+{
+	width: 100%;
+    height: 50%;
+}*/
+
+/*.single_image.left
+{
+	
+    width: 50px;
+    height: 50px;
+    float: left;
+}*/
+
+/*.single_image.right
+{
+    width: 50px;
+    height: 50px;
+    float: left;
+}*/
+/*.creativemints_detail .container
+{
+	width: 100%;
+	height: auto;
+}*/
+
+/*.single_image.left i
+{
+    background: url(../img1/hinh1.PNG);
+    width: 100%;
+    height: 100%;
+    float: left;
+    position: relative;
+    border-radius: 50%;
+    background-position: -4px 59px;
+    left: -50px;
+    top: -165px;
+   
+}*/
+
+@-webkit-keyframes mymove {
+  from {left: -50px;}
+  to {left: 100px;}
+}
+
+
+/*.single_image.right i
+{
+    background: url(../img1/hinh1.PNG);
+    width: 100%;
+    height: 100%;
+    float: left;
+    position: relative;
+    border-radius: 50%;
+    background-position: -51px 59px;
+    left: 252px;
+    top: -165px;
+}*/
+
+/*.container.creative_mints
+{
+    position: relative;
+    top: -219px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: initial;
+    display: none;
+}*/
+
+/*.container.creative_mints h4
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "test_font_3";
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px;
+}
+*/
+/*.container.creative_mints span
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "test_font_3";
+    color: #fff;
+    font-size: 11px;
+    font-weight: 400;
+}*/
+
+/*.dim_image
+{
+	position: relative;
+    width: 300px;
+    height: 230px;
+    opacity: 0.7;
+    background: inherit;
+}
+*/
+/*image two*/
+
+
+
+/* end change six image*/
+
+#creativemints .single_image.left i
+{
+    background: url(../img1/hinh1.PNG); 
+    background-position: -4px 59px;
+}
+
+#creativemints .single_image.right i
+{
+    background: url(../img1/hinh1.PNG); 
+    background-position: -51px 59px;
+}
+
+#TV .single_image.left i
+{
+    background: url(../img1/hinh2.PNG); 
+    background-position: -6px 52px;
+}
+
+#TV .single_image.right i
+{
+    background: url(../img1/hinh2.PNG); 
+    background-position: -53px 52px;
+}
+
+#card .single_image.left i
+{
+    background: url(../img1/hinh3.PNG); 
+    background-position: -6px 53px;
+}
+
+#card .single_image.right i
+{
+    background: url(../img1/hinh3.PNG); 
+    background-position: -54px 53px;
+}
+
+#Iphone .single_image.left i
+{
+    background: url(../img1/hinh4.PNG); 
+    background-position: -8px 54px;
+}
+
+#Iphone .single_image.right i
+{
+    background: url(../img1/hinh4.PNG); 
+    background-position: -59px 54px;
+}
+
+#Bikini .single_image.left i
+{
+    background: url(../img1/hinh5.PNG); 
+    background-position: -8px 56px;
+}
+
+#Bikini .single_image.right i
+{
+    background: url(../img1/hinh5.PNG); 
+    background-position: -59px 56px;
+}
+
+#Face .single_image.left i
+{
+    background: url(../img1/hinh6.PNG); 
+    background-position: -8px 54px;
+}
+
+#Face .single_image.right i
+{
+    background: url(../img1/hinh6.PNG); 
+    background-position: -61px 54px;
+}
+
+
+.least_projects_row span div
+{
+    width: 90px;
+    height: 80px;
+    background-color: #5ac1ca;
+    position: absolute;
+    margin-top: 0px;
+    opacity: 0;
+    
+}
